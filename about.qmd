@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+Étudiante en Master d’économétrie et statistiques, parcours économétrie appliquée, à l’IAE de Nantes, ce site présente mes projets et réalisations en lien avec mes études et mes compétences en analyse statistique
+
+
+```{r}
+1 + 1
+```

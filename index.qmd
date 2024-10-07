@@ -1,0 +1,23 @@
+---
+title: "Lilou Onno"
+---
+
+<div style="text-align: center;"> <!-- Centre le contenu -->
+    <img src="image/IMG.jpg" alt="Lilou Onno" class="photo" style="border-radius: 50%; width: 150px; height: 200px;">
+</div>
+
+
+<div style="text-align: justify;">
+Je suis Lilou Onno, étudiante en Master d’économétrie et statistiques, parcours économétrie appliquée, à l’IAE de Nantes. Ce site présente mes projets et réalisations en lien avec mes études et mes compétences en analyse statistique.
+
+Vous y trouverez plusieurs onglets :
+
+- <span class="link">[Mon CV](cv.qmd)</span>  
+- <span class="link">[Mes projets](projectsL3.qmd)</span> de Licence 3 et Master 1, principalement axés sur l’analyse économique et statistique, incluant mon mémoire et un article scientifique.  
+- <span class="link">[Contact](contact.qmd)</span>  
+
+Je suis actuellement à la recherche d’un stage de maximum 6 mois à partir de mars 2025 dans le domaine de l’analyse de données.
+
+Vous pouvez naviguer à travers les différents onglets pour explorer mon CV, découvrir mes projets et me contacter pour toutes questions. 
+</div>
+

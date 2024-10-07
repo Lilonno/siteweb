@@ -1,0 +1,361 @@
+# Mes Projets
+
+:::: {.panel-tabset}
+
+### Projet Fin d'étude
+
+:::: {.panel-tabset}
+
+### Mémoire sur les déterminants du bagne de Cayenne
+
+<div style="text-align: justify;">
+**Description** : Cette étude vise à analyser les déterminants personnels influençant la survie des détenus au bagne de Cayenne, en se basant sur des données historiques. Elle examine comment des caractéristiques individuelles, telles que l'âge, le statut marital et les professions, impactent le comportement des bagnards et leur mortalité. L'objectif est de mieux comprendre les facteurs qui ont pu influencer leur parcours dans ce contexte pénitentiaire extrême.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/MF.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir mon mémoire
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+
+<div style="text-align:center;">
+  <a href="pdf/NDS.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir la note de synthèse
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+
+
+
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Objectif** : L'objectif de cette étude est d'analyser les déterminants personnels influençant la survie des détenus au bagne de Cayenne. En se basant sur des données individuelles détaillées, l'étude cherche à identifier les caractéristiques physiques, sociales et comportementales qui affectent le parcours des bagnards, depuis leur condamnation jusqu'à leur décès.
+  - **Résultats** : Les résultats montrent que certains facteurs, tels que l'âge, le nombre d'enfants, la capacité à lire et à écrire, le statut marital et la durée de la peine, influencent significativement la probabilité de mourir au bagne. De plus, les professions peu exigeantes physiquement et les condamnations antérieures jouent un rôle dans le comportement au bagne et le nombre de récidives. Ces résultats mettent en lumière les différentes dynamiques personnelles et sociales qui influencent la survie et le comportement des bagnards.
+</div>
+</details>
+
+::::
+
+:::: {.panel-tabset}
+
+### Article scientifique sur la place des femmes dans la viticulture
+<div style="text-align: justify;">
+**Description** : Réalisé lors de mon stage de fin d’année, cet article vise à analyser la place des femmes dans le secteur viticole français, en se concentrant sur le vignoble champenois, reconnu pour sa plus grande féminisation par rapport aux autres bassins viticoles. Il met en lumière les spécificités de ce secteur qui favorisent l'engagement féminin tout en soulignant les obstacles persistants, tels que les discriminations de genre et les stéréotypes culturels, qui limitent leur épanouissement et leur reconnaissance. Les résultats soulignent l'importance d'adopter des politiques inclusives pour valoriser les contributions des femmes dans l'industrie viticole.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/ARL3.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir l'article
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : Excel, Gretl
+  - **Objectif** : L'objectif de cet article scientifique est d'analyser la place des femmes dans l'agriculture, en particulier dans la viticulture française, avec un focus sur le vignoble champenois. Il explore l'évolution historique de leur engagement dans ce secteur, les obstacles genrés auxquels elles font face, et les spécificités du bassin Champenois qui enregistre une proportion plus élevée de femmes cheffes d'exploitations.
+  - **Résultats** : Le résultat montre que, bien que les femmes soient de plus en plus présentes, elles continuent de subir des discriminations et des inégalités persistantes. Malgré leur contribution essentielle, des barrières sociales, économiques et culturelles limitent encore leur accès à certaines opportunités dans ce secteur.
+</div>
+</details>
+::::
+
+### Projet Master 1
+
+:::: {.panel-tabset}
+
+### Dossier sur l’impact du sport sur la santé
+
+<div style="text-align: justify;">
+**Description** : Ce dossier étudie l'impact du sport sur la santé physique et mentale, en réponse à l'inactivité physique, reconnue par l'OMS comme une pandémie mondiale. Environ 25 % des adultes ne pratiquent pas d'activité physique suffisante, contribuant à des problèmes de santé chroniques et mentaux. Pour cela, nous avons élaboré un questionnaire de 20 questions et administré à 171 participants, permettant une analyse statistique de l'influence de l'activité physique sur divers indicateurs de santé.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/ELA.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Objectif** : L'objectif de cette étude est d'explorer comment le sport affecte la santé physique et mentale. En s'appuyant sur la littérature, nous cherchons à identifier les relations entre la pratique sportive, les maladies, et divers facteurs comme l'Indice de Masse Corporelle (IMC) et la consommation d'alcool. Cela permettra d'évaluer l'importance de l'activité physique dans la prévention de maladies chroniques et de troubles mentaux.
+  - **Matière** : Econométrie linéaire avancée
+</div>
+</details>
+::::
+
+:::: {.panel-tabset}
+
+### Analyse du taux de pauvreté des femmes dans 65 pays en 2021
+
+<div style="text-align: justify;">
+**Description** : Ce dossier vise à analyser les déterminants de la pauvreté des femmes dans le monde en 2020, un enjeu rendu d'autant plus urgent par les crises mondiales (climatique, sanitaire, géopolitique) et leurs répercussions économiques. L’étude s’appuie sur des données récentes et sur les déclarations de l’ONU, qui soulignent l'ampleur des inégalités persistantes. En utilisant une Analyse en Composantes Principales (ACP), cette étude explore la corrélation entre les variables latentes et la pauvreté des femmes, dans le but d’identifier les facteurs clés qui influencent cette situation.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/ADD.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Objectif** : L'objectif principal de cette étude est de comprendre les variables qui influent sur la pauvreté des femmes dans le monde. En sélectionnant des variables pertinentes à partir de la littérature, l'analyse vise à dégager des axes explicatifs principaux via une ACP, en mettant en lumière les variables latentes associées aux conditions économiques et aux droits des femmes. Les tests statistiques et régressions sont utilisés pour affiner ces observations.
+  - **Résultats** : Les résultats de l'ACP montrent que l’axe 1 est lié au développement économique des pays, tandis que les axes 2 et 3 se rapportent aux droits et libertés des femmes. La régression logistique binaire confirme ces conclusions, démontrant que le développement et le respect des droits sont les variables principales influençant la pauvreté des femmes. 
+  - **Matière** :  Analyse de données et descriptive
+</div>
+</details>
+::::
+
+:::: {.panel-tabset}
+
+### Dossier sur l’indice des prix à la consommation de janvier 1990 à décembre 2022
+
+<div style="text-align: justify;">
+**Description** : Ce dossier porte sur l'analyse et la prévision de l'indice des prix à la consommation (IPC) en France, couvrant la période de janvier 1990 à décembre 2022. L'étude s'appuie sur diverses techniques de modélisation des séries temporelles pour comprendre les tendances passées et prévoir les évolutions futures de cet indicateur économique clé. Le processus d'analyse inclut la désaisonnalisation des données, l'utilisation de modèles comme ARIMA, SARIMA et SSARIMA, ainsi que l'évaluation de la qualité des prévisions à l'aide de métriques et de tests de précision.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/TPC.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Objectif** : L'objectif principal de ce dossier est de modéliser et de prévoir l'évolution de l'indice des prix à la consommation en France. En séparant les composantes saisonnières et en appliquant différents modèles de prévision, l'étude vise à fournir des anticipations robustes pour l'année 2023. La comparaison des performances des modèles à travers des indicateurs tels que l'erreur quadratique moyenne (MSE) et le R2OOS permet de sélectionner le modèle le plus adapté pour ces prévisions.
+  - **Résultats** : Les résultats de l'analyse montrent que le modèle SSARIMA est le plus performant pour modéliser les composantes saisonnières et non saisonnières de l'IPC, selon les critères AIC et AICc. Cependant, le test de Diebold-Mariano révèle que le modèle ETS, notamment avec la méthode récursive, offre des prévisions légèrement plus précises, affichant une MSE plus faible et un R2OOS supérieur. Ainsi, le modèle ETS est recommandé pour la prévision à un an de l'IPC.
+  - **Matière**: Technique de prévision et conjoncture.
+</div>
+</details>
+::::
+
+:::: {.panel-tabset}
+
+### Analyse des performances financières 
+
+<div style="text-align: justify;">
+**Description** : Ce dossier se concentre sur l'évaluation des performances financières de neuf fonds d'investissement, dans le but d'optimiser un portefeuille et d'améliorer les rendements. L'analyse inclut une étude détaillée de chaque actif afin de comprendre leur évolution et d'identifier les meilleures performances à l'aide de diverses mesures. La recherche s'appuie également sur la théorie moderne du portefeuille pour analyser et comparer différents portefeuilles, y compris un portefeuille équilibré et un portefeuille à variance minimale.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/EDA.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Résultats** : Les résultats révèlent que l'actif le plus performant est ANDE : The Anderson. De plus, après avoir exploré différents portefeuilles, le portefeuille tangent s'avère être le plus efficace dans le contexte d'investissement examiné. Cette conclusion est soutenue par des analyses statistiques approfondies, des calculs de rendement, et une évaluation rigoureuse des portefeuilles.
+  - **Matière** : Évaluation des actifs financier
+  
+
+</div>
+</details>
+::::
+
+
+:::: {.panel-tabset}
+
+### La croissance démographique en France de 1960 à 2009
+<div style="text-align: justify;">
+**Description** : 
+Cette étude se penche sur l’évolution de la croissance démographique en France entre 1950 et 2009, en se concentrant sur deux variables clés : le taux de mortalité et la part de la consommation de soins et de biens médicaux (CSBM) dans le PIB. Elle examine comment les événements historiques et les changements sociaux ont influencé ces deux facteurs, contribuant ainsi à la dynamique démographique du pays.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/ST.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Objectif** : L’objectif principal de cette analyse est d’évaluer l’impact du taux de mortalité et de la part de la CSBM dans le PIB sur la croissance démographique en France. Pour cela, l’étude adoptera une approche méthodologique incluant des analyses statistiques, des prévisions à l’aide du modèle ARIMA, et des tests de cointégration pour explorer les relations à long terme entre les variables.
+  - **Résultats** : Les résultats de cette étude mettent en évidence que le taux de mortalité et la part de la consommation de soins médicaux dans le PIB jouent un rôle significatif dans la croissance démographique en France. L’analyse des relations entre ces variables révèle que les politiques de santé et les événements historiques, tels que les crises économiques et les avancées médicales, ont un impact direct sur la mortalité et, par conséquent, sur la dynamique démographique. Ces conclusions soulignent l'importance d'une approche intégrée dans l'analyse des tendances démographiques.
+  - **Matières** : Série temporelle
+</div>
+</details>
+::::
+
+:::: {.panel-tabset}
+
+### Modélisation des variables latentes 
+
+<div style="text-align: justify;">
+**Description** : 
+Ce dossier examine l'authenticité du saumon en fonction de son origine géographique et de son mode d'élevage. Après une analyse descriptive du jeu de données, un modèle PLS-DA est développé avec cinq composantes pour évaluer la qualité prédictive. Les résultats montrent une qualité prédictive de 91,26 %, avec des éléments chimiques tels que Fer,Cérium, Cuivre,Cadmium,Tantale comme variables discriminantes clés.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/MVL.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : R
+  - **Matières** : Modélisation des variables latentes 
+
+</div>
+</details>
+::::
+
+
+:::: {.panel-tabset}
+
+### R-Shiny
+
+<div style="text-align: justify;">
+**Description** : Projet R Shiny - Comparateur de voyage : Dans le cadre du cours de R Shiny à l'IAE, nous avons développé en binôme un site permettant de comparer les prix des activités au Japon en fonction de la température, des conditions météorologiques et d'autres critères.
+
+</div>
+
+<div style="text-align:center;">
+  <a href="https://lilouonno.shinyapps.io/pshiny/" target="_blank"
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+::::
+
+### Projet Licence 3
+
+:::: {.panel-tabset}
+
+### Analyse des déterminants de l’innovation à l’échelle mondiale en 2018
+<div style="text-align: justify;">
+**Description** : Ce dossier porte sur l'analyse économétrique des déterminants de l'innovation à travers le monde en 2018. Il s'intéresse aux facteurs économiques, institutionnels et sociaux influençant la capacité d'innovation des pays. L'étude repose sur des données internationales et utilise une approche quantitative pour identifier les principales variables impactant l'Indice Mondial de l'Innovation.
+</div>
+
+<div style="text-align:center;">
+  <a href="pdf/E.pdf" target="_blank" 
+     style="display:inline-block; width:80%; padding: 10px 0; background-color: #f0f0f0; color: #666; border-radius: 5px; text-decoration: none; font-weight: normal; font-size: 14px; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+    Cliquez ici pour voir le dossier
+  </a>
+</div>
+
+<style>
+  a:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    color: #333;
+  }
+</style>
+<details>
+  <summary><strong>Cliquez ici pour voir les détails</strong></summary>
+
+<div style="text-align: justify;">
+  - **Outils utilisés** : Gretl
+  - **Objectif** : L'objectif de cette étude est de déterminer les variables qui influencent significativement l'innovation à l'échelle mondiale en 2018. L'analyse examine l'impact de divers facteurs sur l'Indice Mondial de l'Innovation, afin de comprendre comment certaines économies ont accru leur capacité d'innovation.
+  - **Résultats** : Les résultats de la régressions linéaires multiples montrent que les Dépenses en Recherche et Développement, l'Indice de Développement Humain, la Population active, le taux de Chômage, ainsi que la variable muette D1 (Pays Développés) sont des variables significatives. Ces facteurs permettent de définir les modèles phares de l'étude, en cohérence avec les théories économiques.
+  - **Matière** :Econométrie
+  
+</div>
+</details>
+::::
+
+::::

@@ -1,0 +1,94 @@
+/* css styles */ 
+.navbar {
+    background-color: #f8f9fa; /* Fond clair pour la barre de navigation */
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0; /* Trait discret sous la barre */
+}
+
+/* Style pour les onglets (liens de la navbar) */
+.navbar a {
+    padding: 8px 15px;
+    margin: 0 4px;
+    border: 1px solid #dcdcdc; /* Bordure fine et discrète */
+    border-radius: 4px; /* Bords légèrement arrondis */
+    background-color: #fafafa; /* Fond très clair pour les boutons */
+    color: #6c757d; /* Couleur de texte gris foncé, mais neutre */
+    font-weight: 500;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Style pour les onglets au survol */
+.navbar a:hover {
+    background-color: #e0e0e0; /* Fond gris clair au survol */
+    color: #333; /* Texte légèrement plus foncé au survol */
+}
+
+/* Réorganisation des onglets */
+.navbar {
+    display: flex;
+    justify-content: center; /* Centrer les onglets dans la navbar */
+}
+
+.navbar a {
+    display: inline-block;
+}
+
+/* Espacement entre les onglets */
+.nav-tabs .nav-link {
+    margin-right: 10px; /* Espacement horizontal entre les onglets */
+    padding: 10px;
+    border: 1px solid #e0e0e0;
+    background-color: #fafafa;
+    color: #6c757d;
+    border-radius: 4px;
+}
+
+/* Effet de survol */
+.nav-tabs .nav-link:hover {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+/* Onglet actif */
+.nav-tabs .nav-link.active {
+    background-color: #dcdcdc;
+    color: #000;
+}
+
+/* Style pour les titres */
+h1, h2 {
+    text-align: center; /* Centre les titres */
+    font-family: 'Arial', sans-serif; /* Choix d'une police moderne */
+    color: #333; /* Couleur du texte des titres */
+    margin: 20px 0; /* Marges pour espacer les titres */
+}
+
+h1 {
+    font-size: 2rem; /* Taille du titre principal */
+}
+
+h2 {
+    font-size: 1.5rem; /* Taille des sous-titres */
+}
+
+/* Style pour l'iframe du CV */
+.cv-iframe {
+    display: block; /* Permet d'utiliser les propriétés de marges */
+    margin: 20px auto; /* Centre l'iframe horizontalement */
+    border: none; /* Pas de bordure autour de l'iframe */
+    width: 95%; /* Ajuste la largeur de l'iframe à 95% */
+    height: 90vh; /* Ajuste la hauteur de l'iframe pour qu'il soit responsive */
+    background-color: #dcdcdc; /* Fond gris foncé pour le conteneur */
+    padding: 20px; /* Espacement intérieur pour le confort */
+    border-radius: 10px; /* Coins arrondis */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre légère */
+}
+
+/* Ajout d'une section d'introduction pour chaque onglet */
+.introduction {
+    text-align: center;
+    font-size: 1rem; /* Taille de la police pour l'introduction */
+    color: #555; /* Couleur de l'introduction, légèrement grise */
+    margin-bottom: 30px; /* Espacement sous l'introduction */
+}

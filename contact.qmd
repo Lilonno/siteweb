@@ -1,0 +1,58 @@
+---
+title: "Contact"
+---
+
+Si vous avez des questions ou des opportunités à me proposer, n'hésitez pas à remplir le formulaire ci-dessous :
+
+<style>
+  form {
+    background-color: #f7f7f7; /* Couleur de fond gris clair */
+    padding: 20px; /* Espacement à l'intérieur du formulaire */
+    border-radius: 8px; /* Coins arrondis */
+    border: 1px solid #ccc; /* Bordure grise discrète */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombre pour un léger relief */
+  }
+  input[type="text"], input[type="email"], textarea {
+    width: 100%; /* Prend toute la largeur du conteneur */
+    padding: 10px; /* Espacement à l'intérieur des champs */
+    border: 1px solid #999; /* Bordure grise discrète */
+    border-radius: 4px; /* Coins arrondis */
+    box-sizing: border-box; /* Inclut le padding et la bordure dans la largeur totale */
+  }
+  textarea {
+    resize: vertical; /* Permet de redimensionner verticalement uniquement */
+    height: 150px; /* Hauteur par défaut du champ texte */
+  }
+  input[type="submit"], input[type="reset"] {
+    background-color: #4CAF50; /* Couleur du bouton Envoyer */
+    color: white; /* Couleur du texte des boutons */
+    padding: 10px 15px; /* Espacement interne des boutons */
+    border: none; /* Pas de bordure */
+    border-radius: 4px; /* Coins arrondis pour les boutons */
+    cursor: pointer; /* Changement de curseur au survol */
+    margin-top: 10px; /* Espace au-dessus des boutons */
+  }
+  input[type="submit"]:hover, input[type="reset"]:hover {
+    opacity: 0.8; /* Effet de survol */
+  }
+</style>
+
+<form action="https://formspree.io/f/xkgnwzqr" method="POST">
+  <label for="firstname">Prénom:</label><br>
+  <input type="text" id="firstname" name="firstname" required><br><br>
+
+  <label for="name">Nom:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+  
+  <label for="company">Entreprise:</label><br>
+  <input type="text" id="company" name="company"><br><br>
+  
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" required><br><br>
+  
+  <label for="message">Votre message:</label><br>
+  <textarea id="message" name="message" rows="4" required></textarea><br><br>
+  
+  <input type="submit" value="Envoyer">
+  <input type="reset" value="Réinitialiser">
+</form>
